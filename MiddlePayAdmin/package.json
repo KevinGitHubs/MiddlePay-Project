@@ -1,0 +1,15 @@
+{
+  "name": "middlepay-admin",
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "@supabase/supabase-js": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/react": "latest",
+    "@types/node": "latest"
+  }
+}
